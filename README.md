@@ -10,5 +10,5 @@
 - Encapsulation
 - Abstraction
 - Inheritance
-
+- Recursion
 
