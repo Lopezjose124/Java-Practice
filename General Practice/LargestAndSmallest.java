@@ -1,5 +1,5 @@
 
-public class findLargestSmallest 
+public class LargestAndSmallest 
 {
     public static void main(String[] args) 
     {
