@@ -7,3 +7,7 @@ set it will find the smallest and largest value in the set. Once that is done it
 asks the user if they would like to enter another set of numbers. When the user is done 
 entering sets the program will calculate the average of all the largest and smallest values. 
 Finally it displays the information to the user the user.
+
+### LbsToKg
+
+As the name of the program states, this program asks the user to enter a weight in pounds and converts it to kilograms.
