@@ -4,8 +4,6 @@
 
 ### Topics I plan to work on in this repo are:
 
-- Data Structures
-- Algorithms 
 - OOP
 - Encapsulation
 - Abstraction
